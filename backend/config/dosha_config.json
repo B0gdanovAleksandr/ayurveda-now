@@ -1,0 +1,22 @@
+{
+  "hr": {
+    "low": {"kapha": 2, "pitta": 0, "vata": 0},
+    "medium": {"kapha": 0, "pitta": 2, "vata": 0},
+    "high": {"kapha": 0, "pitta": 0, "vata": 2}
+  },
+  "hrv": {
+    "low": {"kapha": 2, "pitta": 0, "vata": 0},
+    "medium": {"kapha": 0, "pitta": 2, "vata": 0},
+    "high": {"kapha": 0, "pitta": 0, "vata": 2}
+  },
+  "amplitude": {
+    "low": {"kapha": 2, "pitta": 0, "vata": 0},
+    "medium": {"kapha": 0, "pitta": 2, "vata": 0},
+    "high": {"kapha": 0, "pitta": 0, "vata": 2}
+  },
+  "morphology": {
+    "smooth": {"kapha": 2, "pitta": 0, "vata": 0},
+    "sharp": {"kapha": 0, "pitta": 2, "vata": 0},
+    "irregular": {"kapha": 0, "pitta": 0, "vata": 2}
+  }
+}

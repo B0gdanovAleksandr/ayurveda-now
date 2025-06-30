@@ -1,0 +1,22 @@
+{
+  "short_name": "AyurvedaNow",
+  "name": "Ayurveda Now Pulse Analyzer",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "description": "PWA для анализа пульса и истории по дошам.",
+  "orientation": "portrait-primary"
+} 

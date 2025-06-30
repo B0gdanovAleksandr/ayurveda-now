@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Node
+node_modules/
+build/
+dist/
+
+# Logs
+*.log
+
+# Docker
+*.pid
+db_data/
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Test
+coverage/
+
+# Other
+*.sqlite3
+
+# System
+*.swp
+*.swo 
